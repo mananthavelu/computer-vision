@@ -1,1 +1,1 @@
-# computer-vision
+# This repository contains the Computer-vision projects using Deep learning.
